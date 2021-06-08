@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Eject mass with left Mousebutton, and split with right Mousebutton
-// @author       You
+// @author       KanjiasDev
 // @match        https://agar.io/*
 // @icon         https://www.google.com/s2/favicons?domain=agar.io
 // @grant        none
